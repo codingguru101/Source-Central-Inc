@@ -17,7 +17,7 @@ body
 	background: #fff ;
 }
 .purple{
-	background: #4a148c;
+	background: green;
 }
 .section-wrapper{
 	padding-top: 90px;
@@ -32,6 +32,7 @@ body
 }
 .section-item-title{
 	font-size: 20px;
+	color: #FEC413;
 	font-weight: 400;
 	letter-spacing: 3px;
 	text-transform: uppercase;
@@ -40,7 +41,7 @@ body
 	font-size: 14px;
     font-weight: 300;
     margin-bottom: 50px;
-    color: #999;
+    color: 999;
     letter-spacing: .39px;
 }
 .underline{
@@ -56,6 +57,10 @@ body
 	width:160px;
 	height:60px;
 }
+.green{
+	color: green
+}
+
 .header
 {
 	background: url('../images/diver.png');
@@ -151,6 +156,7 @@ body
 	font-size: 50px;
 	letter-spacing: 10px;
 	font-weight: 200;
+	color:white;
 }
 .header-subtitle{
 	font-size: 20px;
