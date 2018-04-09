@@ -3,6 +3,8 @@
 ==================================================*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:200,400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+@media all and (max-width:900px), (max-device-width:900px){
+body{
 
 body
 {
@@ -63,6 +65,7 @@ body
 
 .header
 {
+
 	background: url('../images/diver.jpeg');
 	background-repeat: no-repeat;
 	background-position: center center;
