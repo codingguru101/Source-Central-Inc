@@ -1,8 +1,8 @@
 /*=================================================
 ||				1. Imports
 ==================================================*/
-@import url(http://fonts.googleapis.com/css?family=Roboto:200,400,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+@import url(https://fonts.googleapis.com/css?family=Roboto:200,400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
 body
 {
@@ -63,7 +63,7 @@ body
 
 .header
 {
-	background: url('../images/diver.png');
+	background: url('../images/diver.jpeg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
